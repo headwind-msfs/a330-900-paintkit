@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/aircraft.cfg",
+      "size": 854,
+      "date": 132783423663176877
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_BOTTOM_ALBD.png",
+      "size": 284988,
+      "date": 132768834885898619
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_DECALS_ALBD.png",
+      "size": 129720,
+      "date": 132768834885545441
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_FRONT_ALBD.png",
+      "size": 113060,
+      "date": 132768834885780896
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_MID_ALBD.png",
+      "size": 147374,
+      "date": 132769992495203552
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_REAR_ALBD.png",
+      "size": 130189,
+      "date": 132768834885753727
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_SHARKLET_L_ALBD.png",
+      "size": 146122,
+      "date": 132769992495257892
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_SHARKLET_R_ALBD.png",
+      "size": 103897,
+      "date": 132769992495285056
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_AIRFRAME_TAIL_ALBD.png",
+      "size": 86407,
+      "date": 132768834885853341
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_ENGINE_1_ALBD.png",
+      "size": 219608,
+      "date": 132768834885445829
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/A339_ENGINE_2_ALBD.png",
+      "size": 219608,
+      "date": 132768834885445829
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/texture.CFG",
+      "size": 384,
+      "date": 132783422576351488
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/thumbnail.jpg",
+      "size": 373799,
+      "date": 132770873795073461
+    },
+    {
+      "path": "SimObjects/Airplanes/headwind-a330neo_Template/texture.Template/thumbnail_small.jpg",
+      "size": 88255,
+      "date": 132770874481951031
+    }
+  ]
+}
